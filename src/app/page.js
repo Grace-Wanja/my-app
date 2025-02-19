@@ -4,7 +4,7 @@ export default function Home() {
   let second_number = 7
   let  sum = first_number + second_number;
 
-let username = "Okello Lutwa";
+let username = "Graycee Strange";
 
   return (
     <div>
