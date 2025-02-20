@@ -4,7 +4,8 @@ export default function Home() {
   let second_number = 7
   let  sum = first_number + second_number;
 
-let username = "Graycee Strange";
+let username = "Graycee ";
+let username2 = "Maria";
 
   return (
     <div>
@@ -15,9 +16,10 @@ let username = "Graycee Strange";
       <strong>{10 + 10 * 1000}</strong>
       <br/>
       <em>{sum}</em>
+      <h5> This thing has been updated</h5>
 
       <p>Greetings, {username} 👋</p>
-      <p>Greetings, {username} 👋</p>
+      <p>Greetings, {username2} 👋</p>
       
     </div>
   )
