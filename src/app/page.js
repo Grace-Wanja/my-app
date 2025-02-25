@@ -13,7 +13,7 @@ export default function Home() {
     {
       title: "AI",
       subtitle: "AI the New Evolution",
-      content: "Join our Data Science Club to explore the fascinating world of data analysis, machine learning, and artificial intelligence. Whether you're a beginner or an expert, our club offers resources, workshops, and a community to help you grow your skills and knowledge."
+      content: "Join ourAI Club to explore the fascinating world of AI tools, machine learning, and artificial intelligence. Whether you're a beginner or an expert, our club offers resources, workshops, and a community to help you grow your skills and knowledge."
     },
 
     {
