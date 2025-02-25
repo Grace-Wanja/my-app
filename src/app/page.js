@@ -11,6 +11,12 @@ export default function Home() {
     },
 
     {
+      title: "AI",
+      subtitle: "AI the New Evolution",
+      content: "Join our Data Science Club to explore the fascinating world of data analysis, machine learning, and artificial intelligence. Whether you're a beginner or an expert, our club offers resources, workshops, and a community to help you grow your skills and knowledge."
+    },
+
+    {
       title: "Cyber Security",
       subtitle: "Guardians of the Byte.",
       content: "Join our Cyber Security Club to delve into the critical field of protecting digital information. Our club provides insights into the latest security practices, ethical hacking, and defense strategies. Whether you're new to the field or a seasoned professional, we offer workshops, resources, and a community to enhance your skills and knowledge."
