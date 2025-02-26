@@ -17,7 +17,7 @@ export default function Home() {
     },
 
     {
-      title: "Cyber Security",
+      title: "CYBER SECURITY",
       subtitle: "Guardians of the Byte.",
       content: "Join our Cyber Security Club to delve into the critical field of protecting digital information. Our club provides insights into the latest security practices, ethical hacking, and defense strategies. Whether you're new to the field or a seasoned professional, we offer workshops, resources, and a community to enhance your skills and knowledge."
     },
