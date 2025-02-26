@@ -5,7 +5,7 @@ export default function Home() {
 
   let associationChapters = [
     {
-      title: "Data Science",
+      title: "DATA SCIENCE",
       subtitle: "Data the new oil.",
       content: "Join our Data Science Club to explore the fascinating world of data analysis, machine learning, and artificial intelligence. Whether you're a beginner or an expert, our club offers resources, workshops, and a community to help you grow your skills and knowledge."
     },
